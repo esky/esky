@@ -1,0 +1,22 @@
+{
+  "name": "esky",
+  "version": "0.0.1",
+  "description": "esky默认库",
+  "main": "index.js",
+  "keywords": [
+    "esky"
+  ],
+  "author": "esky",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "scripts": {},
+  "homepage": "https://github.com/esky/esky",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esky/esky.git"
+  },
+  "engines": {
+    "node": ">=4.00"
+  }
+}
